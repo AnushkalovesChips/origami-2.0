@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+  flex-wrap: wrap;
+}
+.header {
+display: flex;
+justify-content: space-between;
+background-color: aquamarine;
+}
+H1{
+  color:rgb(21, 37, 189) ; 
+  margin-left:20px ; 
+}
+.header a{
+    margin-top: 50px;
+    margin-right: 36px;
+}
+body{
+   
+    background-image:url('https://www.solidbackgrounds.com/images/website/950x534/950x534-blue-stained-glass-free-website-background-image.jpg') ;
+opacity : 0.8;
+
+}
